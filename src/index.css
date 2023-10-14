@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+  color: white;
+
+}
+
+table{
+  border: 1px solid white;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+h1{
+  text-align: center;
+}
+td{
+  padding: 10px;
+  text-align: center;
+}
+img{
+  width:30%;
+  padding: 0;
+  margin-left: 2rem;
+}
+td.img{
+  width:10%;
+  padding: 0;
+}
